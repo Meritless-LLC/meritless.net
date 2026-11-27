@@ -1,0 +1,5 @@
+.claude/
+.DS_Store
+
+# Private business documents — never publish
+*.pdf
